@@ -84,15 +84,12 @@ object KevinNumberCalculator {
     skippedActors
   }
 
-  // print statements are only for debugging purpose
   private def workedWithKevin(kevinTitles: Seq[String], actorsTitles: Seq[String]): Boolean = {
     val commonTitles = kevinTitles.intersect(actorsTitles)
     if (commonTitles.nonEmpty) {
-      // println(s"commonTitles: " + commonTitles)
       true
     } else {
       // each EMPTY check will result in +1 kevin number
-      // println(s"commonTitles is EMPTY\n")
       false
     }
   }
