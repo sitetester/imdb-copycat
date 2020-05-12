@@ -4,3 +4,4 @@ src/main/resources/data
 target
 tmp
 imdb.db
+.DS_Store
