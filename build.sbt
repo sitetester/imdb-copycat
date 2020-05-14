@@ -1,4 +1,4 @@
-name := "imdb"
+name := "imdb-copycat"
 
 version := "0.1"
 
