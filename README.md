@@ -21,7 +21,7 @@ Routes are shown in `RouteProvider` e.g.
 
 - http://localhost:8080/kevinNumber/Bruce%20Lee
 
-- Screenshots are in `/resources`
+- Screenshots are in `/src/main/resources`
 - Unit tests added in `KevinNumberCalculatorSpec`
 
 
