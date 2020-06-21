@@ -1,4 +1,5 @@
-This is based on https://www.imdb.com/interfaces/ It provides routes to search for titles based on different criteria. There is `Kevin Bacon` - https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon solution inside also.
+This is based on https://www.imdb.com/interfaces/ It provides routes to search for titles based on different criteria. There is `Kevin Bacon` - https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon solution inside as well.
+Data could also be downloaded from https://www.kaggle.com/ashirwadsangwan/imdb-dataset/data 
 
 **DB Setup**
 - DB engine settings could be changed in `/resources/application.conf` file
